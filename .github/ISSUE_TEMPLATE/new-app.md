@@ -3,7 +3,8 @@ name: New App
 about: Adding a new application to the Zoo package manager archive
 title: New App (ENTER NAME YOUR APP)
 labels: 'New App'
-assignees: ''
+assignees: 'Mavox-ID'
+priority: 'medium'
 type: Feature
 
 ---
